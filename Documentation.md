@@ -4,6 +4,9 @@ Site: https://www.josegamestest.com.br/<br>
 Youtube: https://www.youtube.com/c/josegamestest<br>
 
 # Server tuning #
+
+![image](https://raw.githubusercontent.com/doyousketch2/server_tuning/master/screenshot.png)  
+
 Este mod cria uma experiência de administração mais interativa,<br>
 permitindo aos administradores ajustar as configurações de servidor cruciais diretamente no jogo.<br>
 Implementa um sistema de ajuste dinâmico de várias configurações de servidor no jogo Minetest, <br>
